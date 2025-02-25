@@ -1,0 +1,903 @@
+
+<glf lang="hu-HU" xmlns="http://tvservices.microsoft.com/epg/glf" supplier="MyListings, Inc.">
+<listings>
+<schedules>
+  <s s="2020-01-20T08:00:00" d="1800" p="302789201" c="137">
+    <f id="2"></f>
+  </s>
+  <s s="2020-01-20T05:30:00" d="1800" p="343962604" c="137">
+    <f id="2"></f>
+  </s>
+</schedules>
+<programs>
+  <p id="302789201" t="dDemo data 4" d="Demo data 4">
+    <f id="2"></f>
+    <k id="2" v="12"></k>
+    <k id="8" v="27892"></k>
+    <c id="7"></c>
+    <r o="1" r="1" n="106770"></r>
+    <r o="2" r="1" n="50437"></r>
+    <r o="3" r="1" n="50370"></r>
+    <r o="4" r="1" n="106591"></r>
+    <r o="5" r="1" n="110794"></r>
+    <r o="6" r="1" n="75044"></r>
+    <i id="2918381"></i>
+    <i id="2918391"></i>
+    <i id="2918401"></i>
+    <i id="2918411"></i>
+    <i id="2918421"></i>
+    <i id="2926621"></i>
+    <i id="2926921"></i>
+    <i id="2927821"></i>
+    <i id="2928121"></i>
+    <i id="2932191"></i>
+    <i id="3037661"></i>
+    <i id="3037671"></i>
+    <i id="3037681"></i>
+    <i id="3037691"></i>
+    <i id="3046591"></i>
+    <cr n="50370" c="Adam Strange"></cr>
+    <cr n="50437" c="Daron-Vex"></cr>
+    <cr n="75044" c="Brainiac "></cr>
+    <cr n="106591" c="Lyta-Zod"></cr>
+    <cr n="106770" c="Jayna-Zod"></cr>
+    <cr n="110794" c="Seg-El"></cr>
+  </p>
+  <p id="343962604" t="dDemo data 7" d="Demo data 7">
+    <f id="2"></f>
+    <k id="3" v="2704607"></k>
+    <k id="2" v="16"></k>
+    <k id="5" v="0"></k>
+    <k id="4" v="270460"></k>
+    <k id="8" v="27046"></k>
+    <c id="7"></c>
+  </p>
+  <p id="343962605" t="dDemo data 8" d="Demo data 8">
+    <f id="2"></f>
+    <k id="3" v="2704607"></k>
+    <k id="2" v="16"></k>
+    <k id="5" v="0"></k>
+    <k id="4" v="270460"></k>
+    <k id="8" v="27046"></k>
+    <c id="7"></c>
+  </p>
+</programs>
+<series>
+  <s id="10521" t="Jim szerint a világ" d="Jim és Cheryl boldog házasságban élnek és igyekeznek a lehető legnormálisabbnak látszani. Ez azonban meglehetősen nehéz feladatnak bizonyul. Hiszen Jim komolyságban és felelősségtudatban egy szinten van kisiskolás lányaival, Cheryl pedig bébiszitterkedő húga, Dana áldásos hangulatváltozásait és férjére tett szúrós megjegyzéseit kénytelen nap, mint nap elviselni. Hétköznapinak aligha nevezhető életüket két kislányuk hajmeresztő kalandjai teszik még izgalmasabbá.">
+    <f id="1"></f>
+    <k id="5" v="1"></k>
+    <c id="7"></c>
+    <r o="1" r="1" n="159"></r>
+    <r o="2" r="1" n="29558"></r>
+    <r o="3" r="1" n="1736"></r>
+    <i id="80870"></i>
+    <i id="80890"></i>
+  </s>
+  <s id="27046" t="Jobb idők" d="Keserédes vígjátéksorozat egy egyedülálló anyáról és színésznőről, aki a három lányával az oldalán próbál boldogulni Los Angelesben. Sam Fox anya, apa, bíró és zsaru egy személyben, aki odafigyel az angol édesanyjára is, aki az utca túloldalán él. A munkás hétköznapokban a színésznői feladatai, a lányai nevelése és az édesanyjával való találkozások mellett megpróbálja a saját életét is élni, kevés sikerrel.">
+    <c id="7"></c>
+    <r o="1" r="1" n="34783"></r>
+    <r o="2" r="1" n="108939"></r>
+    <r o="3" r="1" n="49929"></r>
+    <r o="4" r="1" n="108940"></r>
+  </s>
+  <s id="27892" t="Krypton" d="Az univerzum távoli sarkában, a Krypton bolygón járunk, két generációval azelőtt, hogy az Acélember, a legendás Superman megszületett volna. Az Acélember nagyapja, Seg-El rájön, hogy veszély fenyegeti a bolygót. A világot leigázó idegen, Braniac már szemet vetett rá, és az uralma alá akarja hajtani. Mindez szörnyű következményekkel jár, ha ez bekövetkezik, Seg-El jövőbeli unokája - minden idők legnagyobb szuperhőse - sohasem fog megszületni.">
+    <c id="7"></c>
+    <r o="1" r="1" n="106770"></r>
+    <r o="2" r="1" n="50437"></r>
+    <r o="3" r="1" n="50370"></r>
+    <r o="4" r="1" n="106591"></r>
+    <r o="5" r="1" n="110794"></r>
+    <r o="6" r="1" n="75044"></r>
+  </s>
+  <s id="31" t="Jóbarátok" d="A nagysikerű sorozat hat, a húszas éveiben járó fiatal (három férfi és három nő) mindennapjait követi nyomon. A sorozat főszereplői Rachel Karen Green, az elkényeztetett &quot;apuka-kislánya&quot;; Monica Eustace Geller, a kényszeresen rend- és tisztaságmániás séf; Chandler Muriel Bing, a viccelődő okostojás, a szerelemben szerencsétlen irodakukac; Joseph 'Joey' Francis Tribbiani, a szexmániás, gyerekded színész; Ross Eustace Geller, az elvált, stréber paleontológus és Phoebe Buffay, a szórakozott…">
+    <c id="7"></c>
+    <r o="1" r="1" n="7131"></r>
+    <r o="2" r="1" n="3373"></r>
+    <r o="3" r="1" n="63133"></r>
+    <r o="4" r="1" n="2705"></r>
+    <r o="5" r="1" n="1199"></r>
+    <r o="6" r="1" n="885"></r>
+    <r o="7" r="1" n="7284"></r>
+    <r o="8" r="1" n="6562"></r>
+    <r o="9" r="1" n="1740"></r>
+    <i id="181480"></i>
+    <i id="27310"></i>
+    <i id="27320"></i>
+    <i id="82180"></i>
+    <i id="82190"></i>
+  </s>
+</series>
+<seasons>
+  <s id="105214" t="Jim szerint a világ" d="Jim és Cheryl boldog házasságban élnek és igyekeznek a lehető legnormálisabbnak látszani. Ez azonban meglehetősen nehéz feladatnak bizonyul. Hiszen Jim komolyságban és felelősségtudatban egy szinten van kisiskolás lányaival, Cheryl pedig bébiszitterkedő húga, Dana áldásos hangulatváltozásait és férjére tett szúrós megjegyzéseit kénytelen nap, mint nap elviselni. Hétköznapinak aligha nevezhető életüket két kislányuk hajmeresztő kalandjai teszik még izgalmasabbá.">
+    <k id="5" v="4"></k>
+    <k id="8" v="10521"></k>
+    <c id="7"></c>
+    <r o="1" r="1" n="159"></r>
+    <r o="2" r="1" n="29558"></r>
+    <r o="3" r="1" n="1736"></r>
+    <i id="80870"></i>
+    <i id="80890"></i>
+  </s>
+  <s id="317" t="Jóbarátok" d="A nagysikerű sorozat hat, a húszas éveiben járó fiatal (három férfi és három nő) mindennapjait követi nyomon. A sorozat főszereplői Rachel Karen Green, az elkényeztetett &quot;apuka-kislánya&quot;; Monica Eustace Geller, a kényszeresen rend- és tisztaságmániás séf; Chandler Muriel Bing, a viccelődő okostojás, a szerelemben szerencsétlen irodakukac; Joseph 'Joey' Francis Tribbiani, a szexmániás, gyerekded színész; Ross Eustace Geller, az elvált, stréber paleontológus és Phoebe Buffay, a szórakozott…">
+    <k id="5" v="7"></k>
+    <k id="8" v="31"></k>
+    <c id="7"></c>
+    <r o="1" r="1" n="7131"></r>
+    <r o="2" r="1" n="3373"></r>
+    <r o="3" r="1" n="63133"></r>
+    <r o="4" r="1" n="2705"></r>
+    <r o="5" r="1" n="1199"></r>
+    <r o="6" r="1" n="885"></r>
+    <r o="7" r="1" n="7284"></r>
+    <r o="8" r="1" n="6562"></r>
+    <r o="9" r="1" n="1740"></r>
+    <i id="181480"></i>
+    <i id="27310"></i>
+    <i id="27320"></i>
+    <i id="82180"></i>
+    <i id="82190"></i>
+  </s>
+</seasons>
+<programroles>
+  <roles>
+    <role id="1" name="MSEPGR_ACTOR" title="Actor" desc="Actor in the program"></role>
+  </roles>
+  <names>
+    <n id="159" fname="James" lname="Belushi">
+      <f id="1"></f>
+      <k id="2" v="1954-06-15"></k>
+      <k id="3" v="Chichago, USA"></k>
+      <i id="107871"></i>
+      <i id="1174021"></i>
+      <i id="1563081"></i>
+      <i id="1563091"></i>
+      <i id="1563101"></i>
+      <i id="1563111"></i>
+      <i id="1563121"></i>
+      <i id="163211"></i>
+      <i id="166011"></i>
+      <i id="1687431"></i>
+      <i id="1699241"></i>
+      <i id="1699581"></i>
+      <i id="1700241"></i>
+      <i id="171211"></i>
+      <i id="171221"></i>
+      <i id="1716871"></i>
+      <i id="1716881"></i>
+      <i id="1716891"></i>
+      <i id="1716901"></i>
+      <i id="175041"></i>
+      <i id="1753611"></i>
+      <i id="1799291"></i>
+      <i id="1846841"></i>
+      <i id="1893311"></i>
+      <i id="1968091"></i>
+      <i id="1979661"></i>
+      <i id="2004871"></i>
+      <i id="2009851"></i>
+      <i id="2043661"></i>
+      <i id="2052681"></i>
+      <i id="207801"></i>
+      <i id="2135461"></i>
+      <i id="21641"></i>
+      <i id="21651"></i>
+      <i id="21661"></i>
+      <i id="21671"></i>
+      <i id="2298911"></i>
+      <i id="230461"></i>
+      <i id="2351361"></i>
+      <i id="2378401"></i>
+      <i id="248101"></i>
+      <i id="256171"></i>
+      <i id="2669801"></i>
+      <i id="287201"></i>
+      <i id="320031"></i>
+      <i id="368931"></i>
+      <i id="371851"></i>
+      <i id="371981"></i>
+      <i id="384341"></i>
+      <i id="392751"></i>
+      <i id="452281"></i>
+      <i id="473751"></i>
+      <i id="490171"></i>
+      <i id="505541"></i>
+      <i id="518151"></i>
+      <i id="520081"></i>
+      <i id="535601"></i>
+      <i id="587351"></i>
+      <i id="601321"></i>
+      <i id="601661"></i>
+      <i id="681811"></i>
+      <i id="693711"></i>
+      <i id="696001"></i>
+      <i id="697361"></i>
+      <i id="697371"></i>
+      <i id="698311"></i>
+      <i id="709281"></i>
+      <i id="732731"></i>
+      <i id="761281"></i>
+      <i id="762321"></i>
+      <i id="79141"></i>
+      <i id="79871"></i>
+      <i id="849901"></i>
+      <i id="849911"></i>
+      <i id="849921"></i>
+      <i id="869221"></i>
+    </n>
+    <n id="29558" fname="Larry" lname="Joe Campbell">
+      <i id="2061041"></i>
+      <i id="2061051"></i>
+    </n>
+    <n id="1736" fname="Courtney" lname="Thorne-Smith">
+      <i id="134301"></i>
+      <i id="1716871"></i>
+      <i id="1716891"></i>
+      <i id="1766161"></i>
+      <i id="1766181"></i>
+      <i id="1812801"></i>
+      <i id="1826191"></i>
+      <i id="2061041"></i>
+      <i id="2061051"></i>
+      <i id="21651"></i>
+      <i id="21671"></i>
+      <i id="2565281"></i>
+      <i id="354491"></i>
+      <i id="365951"></i>
+      <i id="475201"></i>
+      <i id="528171"></i>
+      <i id="542521"></i>
+      <i id="555661"></i>
+      <i id="566201"></i>
+      <i id="620701"></i>
+      <i id="778481"></i>
+      <i id="794731"></i>
+    </n>
+    <n id="7131" fname="Jane" lname="Sibbett">
+      <i id="553771"></i>
+      <i id="567891"></i>
+      <i id="587101"></i>
+      <i id="657191"></i>
+      <i id="729701"></i>
+    </n>
+    <n id="3373" fname="Paul" lname="Rudd">
+      <i id="1430981"></i>
+      <i id="1924361"></i>
+      <i id="1924391"></i>
+      <i id="2057561"></i>
+      <i id="2057581"></i>
+      <i id="2057601"></i>
+      <i id="2057621"></i>
+      <i id="2057631"></i>
+      <i id="2183051"></i>
+      <i id="2183061"></i>
+      <i id="2183091"></i>
+      <i id="2183101"></i>
+      <i id="2183121"></i>
+      <i id="2315591"></i>
+      <i id="2431841"></i>
+      <i id="2431851"></i>
+      <i id="2587031"></i>
+      <i id="2798601"></i>
+      <i id="2929771"></i>
+      <i id="2929811"></i>
+      <i id="415001"></i>
+    </n>
+    <n id="63133" fname="James" lname="Michael Tyler"></n>
+    <n id="2705" fname="Courteney" lname="Cox">
+      <k id="2" v="1964-06-15"></k>
+      <k id="3" v="Birmingham, Alabama, USA"></k>
+      <k id="1" v="Első szerepét egy Bruce Springsteen videoklipben kapta. Eredetileg nem is akart színész lenni, építésznek készült. Első komoly tévészerepét 1987-ben kapta: Michael J. Fox partnereként játszott a…"></k>
+      <i id="105191"></i>
+      <i id="1063071"></i>
+      <i id="1064201"></i>
+      <i id="1065501"></i>
+      <i id="1072101"></i>
+      <i id="1432591"></i>
+      <i id="1563901"></i>
+      <i id="1835321"></i>
+      <i id="809921"></i>
+      <i id="813951"></i>
+    </n>
+    <n id="1199" fname="David" lname="Schwimmer">
+      <i id="1690241"></i>
+      <i id="265651"></i>
+      <i id="291761"></i>
+      <i id="495261"></i>
+    </n>
+    <n id="885" fname="Jennifer" lname="Aniston">
+      <k id="2" v="1969-02-11"></k>
+      <k id="3" v="Sherman Oaks, California"></k>
+      <i id="1033331"></i>
+      <i id="1083781"></i>
+      <i id="1300221"></i>
+      <i id="1368111"></i>
+      <i id="1427181"></i>
+      <i id="1431541"></i>
+      <i id="1496531"></i>
+      <i id="1496551"></i>
+      <i id="1535311"></i>
+      <i id="1535341"></i>
+      <i id="1730971"></i>
+      <i id="1735491"></i>
+      <i id="1756151"></i>
+      <i id="1811131"></i>
+      <i id="1811661"></i>
+      <i id="1812501"></i>
+      <i id="1817021"></i>
+      <i id="1821201"></i>
+      <i id="1843071"></i>
+      <i id="1861121"></i>
+      <i id="1969711"></i>
+      <i id="2009831"></i>
+      <i id="2067011"></i>
+      <i id="2067831"></i>
+      <i id="2067851"></i>
+      <i id="2273711"></i>
+      <i id="2273781"></i>
+      <i id="2419161"></i>
+      <i id="2443051"></i>
+      <i id="2443061"></i>
+      <i id="2466471"></i>
+      <i id="2613951"></i>
+      <i id="266181"></i>
+      <i id="2678201"></i>
+      <i id="27371"></i>
+      <i id="2939531"></i>
+      <i id="2939541"></i>
+      <i id="2939551"></i>
+      <i id="2939561"></i>
+      <i id="2949011"></i>
+      <i id="2970811"></i>
+      <i id="2970821"></i>
+      <i id="2998631"></i>
+      <i id="2998651"></i>
+      <i id="334161"></i>
+      <i id="384981"></i>
+      <i id="385011"></i>
+      <i id="415001"></i>
+      <i id="43091"></i>
+      <i id="431051"></i>
+      <i id="441941"></i>
+      <i id="445541"></i>
+      <i id="701641"></i>
+      <i id="707781"></i>
+      <i id="72191"></i>
+      <i id="766161"></i>
+      <i id="776381"></i>
+      <i id="776961"></i>
+      <i id="778071"></i>
+      <i id="783701"></i>
+      <i id="788411"></i>
+      <i id="806881"></i>
+      <i id="818791"></i>
+      <i id="818801"></i>
+      <i id="838441"></i>
+      <i id="838471"></i>
+      <i id="912441"></i>
+      <i id="912451"></i>
+      <i id="912461"></i>
+      <i id="912471"></i>
+      <i id="912481"></i>
+      <i id="933431"></i>
+      <i id="933441"></i>
+      <i id="960901"></i>
+      <i id="961391"></i>
+      <i id="974961"></i>
+      <i id="977381"></i>
+    </n>
+    <n id="7284" fname="Lisa" lname="Kudrow">
+      <i id="1045901"></i>
+      <i id="1116211"></i>
+      <i id="1200011"></i>
+      <i id="1207351"></i>
+      <i id="1226491"></i>
+      <i id="1326261"></i>
+      <i id="1400731"></i>
+      <i id="1689041"></i>
+      <i id="1730971"></i>
+      <i id="1847341"></i>
+      <i id="1914441"></i>
+      <i id="2049351"></i>
+      <i id="258691"></i>
+      <i id="266751"></i>
+      <i id="334161"></i>
+      <i id="415271"></i>
+      <i id="657641"></i>
+      <i id="869711"></i>
+    </n>
+    <n id="6562" fname="Matt" lname="LeBlanc">
+      <i id="1882391"></i>
+      <i id="1984151"></i>
+      <i id="2087951"></i>
+      <i id="2153011"></i>
+      <i id="2206551"></i>
+      <i id="2955461"></i>
+    </n>
+    <n id="1740" fname="Matthew" lname="Perry">
+      <i id="1162671"></i>
+      <i id="1171991"></i>
+      <i id="156261"></i>
+      <i id="1700451"></i>
+      <i id="1700751"></i>
+      <i id="1730971"></i>
+      <i id="1812941"></i>
+      <i id="1832221"></i>
+      <i id="2007741"></i>
+      <i id="2232151"></i>
+      <i id="2246281"></i>
+      <i id="2572261"></i>
+      <i id="288551"></i>
+      <i id="294311"></i>
+      <i id="334161"></i>
+      <i id="43151"></i>
+      <i id="65391"></i>
+      <i id="657631"></i>
+      <i id="778681"></i>
+      <i id="809901"></i>
+    </n>
+    <n id="34783" fname="Celia" lname="Imrie">
+      <i id="2201931"></i>
+      <i id="2201951"></i>
+      <i id="2201981"></i>
+    </n>
+    <n id="108939" lname="Mikey Madison"></n>
+    <n id="49929" fname="Pamela" lname="Adlon"></n>
+    <n id="108940" lname="Olivia Edward"></n>
+    <n id="106770" lname="Ann Ogbomo"></n>
+    <n id="50437" fname="Elliot" lname="Cowan"></n>
+    <n id="50370" fname="Shaun" lname="Sipos"></n>
+    <n id="106591" lname="Georgina Campbell"></n>
+    <n id="110794" lname="Cameron Cuffe"></n>
+    <n id="75044" fname="Blake" lname="Ritson"></n>
+  </names>
+</programroles>
+<programflags>
+  <pf id="1" name="MSEPG_MOVIE" pname="Program is a movie" desc="Program is a movie." serviceTypes="Live, Catchup">
+    <ft pname="MSEPG_MOVIE ar-sa" desc="MSEPG_MOVIE ar-sa2" lang="ar-sa"></ft>
+    <ft pname="MSEPG_MOVIE" desc="MSEPG_MOVIE zh-CN" lang="zh-CN"></ft>
+  </pf>
+  <pf id="2" name="MSEPG_SERIES" pname="Program is a series" desc="Program is a series."></pf>
+  <pf id="5" name="MSEPG_SPECIAL" pname="Program is a special" desc="Program is a special."></pf>
+</programflags>
+<scheduleflags>
+  <sf id="1" name="MSEPGA_CC" pname="Closed Captioned" desc="Program has closed captioning for the hearing impaired." serviceTypes="Live, Catchup">
+    <ft pname="Captioned ar-sa" desc="New ar-sa" lang="ar-sa"></ft>
+    <ft pname="Captioned zh-C" desc="New zh-C" lang="zh-CN"></ft>
+  </sf>
+  <sf id="15" name="PBR_CATCHUP_ALLOWED" pname="Catch-up allowed" desc="If present, indicates that the program will be archived for Catch-up playback."></sf>
+  <sf id="2" name="MSEPGA_STEREO" pname="Stereo" desc="Program is broadcast in stereo sound."></sf>
+  <sf id="3" name="MSEPGA_REPEAT" pname="Repeat" desc="Program is a repeat."></sf>
+  <sf id="4" name="MSEPGA_LIVE" pname="Live" desc="Program is live."></sf>
+  <sf id="5" name="MSEPGA_SUBTITLED" pname="Subtitled" desc="Program is subtitled." serviceTypes="Live, Catchup"></sf>
+  <sf id="6" name="MSEPGA_SUBTITLED" pname="Subtitled" desc="Program is subtitled." serviceTypes="Mock"></sf>
+  <sf id="101" name="PBR_DESKTOP_BLOCKED" pname="PBR_DESKTOP_BLOCKED" desc="PBR_DESKTOP_BLOCKED" lang="en-US" icon="null" serviceTypes="Live"></sf>
+  <sf id="102" name="PBR_PHONE_BLOCKED" pname="PBR_PHONE_BLOCKED" desc="PBR_PHONE_BLOCKED" lang="en-US" icon="null" serviceTypes="Live"></sf>
+  <sf id="103" name="PBR_TABLET_BLOCKED" pname="PBR_DESKTOP_BLOCKED" desc="PBR_DESKTOP_BLOCKED" lang="en-US" icon="null" serviceTypes="Live"></sf>
+  <sf id="104" name="PBR_HDMI_BLOCKED" pname="PBR_PHONE_BLOCKED" desc="PBR_PHONE_BLOCKED" lang="en-US" icon="null" serviceTypes="Live"></sf>
+</scheduleflags>
+<programcategories>
+  <c id="2" value="Educational" mscname="MSEPGC_EDUCATIONAL">
+    <ct value="Educational ar-sa" lang="ar-sa"></ct>
+    <ct value="Educationa zh-CN" lang="zh-CN"></ct>
+    <c id="202" value="Biography" mscname="MSEPGC_ED_BIOGRAPHY">
+      <ct value="sub add ar-sa" lang="ar-sa"></ct>
+      <ct value="sub add zh-CN" lang="zh-CN"></ct>
+    </c>
+    <c id="203" value="Documentary" mscname="MSEPGC_ED_DOCUMENTARY"></c>
+    <c id="206" value="Other" mscname="MSEPGC_ED_OTHER"></c>
+  </c>
+  <c id="3" value="Kids" mscname="MSEPGC_KIDS">
+    <c id="302" value="Animated" mscname="MSEPGC_KIDS_ANIMATED"></c>
+  </c>
+  <c id="4" value="Lifestyle" mscname="MSEPGC_LIFESTYLE">
+    <c id="400" value="Lifestyle All" mscname="MSEPGC_LS_ALL"></c>
+    <c id="403" value="Cooking" mscname="MSEPGC_LS_COOKING"></c>
+    <c id="405" value="Health" mscname="MSEPGC_LS_HEALTH"></c>
+    <c id="406" value="Home and Garden" mscname="MSEPGC_LS_HOMEANDGARDEN"></c>
+    <c id="408" value="Religious" mscname="MSEPGC_LS_RELIGIOUS"></c>
+    <c id="409" value="Other" mscname="MSEPGC_LS_OTHER"></c>
+  </c>
+  <c id="5" value="Movies" mscname="MSEPGC_MOVIES">
+    <c id="500" value="Movies All" mscname="MSEPGC_MV_ALL"></c>
+    <c id="501" value="Adults Only" mscname="MSEPGC_MV_ADULTSONLY"></c>
+    <c id="502" value="Action and Adventure" mscname="MSEPGC_MV_ACTADV"></c>
+    <c id="503" value="Children" mscname="MSEPGC_MV_CHILDREN"></c>
+    <c id="504" value="Comedy" mscname="MSEPGC_MV_COMEDY"></c>
+    <c id="505" value="Drama" mscname="MSEPGC_MV_DRAMA"></c>
+    <c id="506" value="Fantasy" mscname="MSEPGC_MV_FANTASY"></c>
+    <c id="507" value="Horror" mscname="MSEPGC_MV_HORROR"></c>
+    <c id="508" value="Musical" mscname="MSEPGC_MV_MUSICAL"></c>
+    <c id="509" value="Mystery" mscname="MSEPGC_MV_MYSTERY"></c>
+    <c id="511" value="Science Fiction" mscname="MSEPGC_MV_SCIFI"></c>
+    <c id="512" value="Suspense" mscname="MSEPGC_MV_SUSPENSE"></c>
+    <c id="513" value="Western" mscname="MSEPGC_MV_WESTERN"></c>
+    <c id="514" value="Other" mscname="MSEPGC_MV_OTHER"></c>
+  </c>
+  <c id="6" value="News and Politics" mscname="MSEPGC_NEWS">
+    <c id="600" value="All" mscname="MSEPGC_NEWS_ALL"></c>
+    <c id="601" value="Business" mscname="MSEPGC_NEWS_BUSINESS"></c>
+    <c id="602" value="Current Events" mscname="MSEPGC_NEWS_CURRENTEVTS"></c>
+    <c id="604" value="Public Affairs" mscname="MSEPGC_NEWS_PUBLICAFRS"></c>
+    <c id="605" value="Sports" mscname="MSEPGC_NEWS_SPORTS"></c>
+    <c id="607" value="Other" mscname="MSEPGC_NEWS_OTHER"></c>
+  </c>
+  <c id="7" value="Series" mscname="MSEPGC_SERIES">
+    <c id="700" value="All" mscname="MSEPGC_SERIES_ALL"></c>
+    <c id="701" value="Action/Adventure" mscname="MSEPGC_SERIES_ACTADV"></c>
+    <c id="702" value="Children" mscname="MSEPGC_SERIES_CHILD"></c>
+    <c id="703" value="Comedy" mscname="MSEPGC_SERIES_COMEDY"></c>
+    <c id="704" value="Cooking" mscname="MSEPGC_SERIES_COOKING"></c>
+    <c id="705" value="Drama" mscname="MSEPGC_SERIES_DRAMA"></c>
+    <c id="706" value="Educational" mscname="MSEPGC_SERIES_ED"></c>
+    <c id="707" value="Game Show" mscname="MSEPGC_SERIES_GAME"></c>
+    <c id="709" value="Music" mscname="MSEPGC_SERIES_MUSIC"></c>
+    <c id="710" value="Reality" mscname="MSEPGC_SERIES_REALITY"></c>
+    <c id="712" value="Talk Show" mscname="MSEPGC_SERIES_TALK"></c>
+    <c id="713" value="Travel" mscname="MSEPGC_SERIES_TRAVEL"></c>
+    <c id="714" value="Other" mscname="MSEPGC_SERIES_OTHER"></c>
+  </c>
+  <c id="8" value="Special" mscname="MSEPGC_SPECIAL">
+    <c id="803" value="Music" mscname="MSEPGC_SPECIAL_MUSIC"></c>
+    <c id="804" value="Religious" mscname="MSEPGC_SPECIAL_RELIGOUS"></c>
+    <c id="805" value="Sports" mscname="MSEPGC_SPECIAL_SPORTS"></c>
+    <c id="806" value="Other" mscname="MSEPGC_SPECIAL_OTHER"></c>
+  </c>
+</programcategories>
+<programimages>
+  <i id="1033331" url="http://epg.p24.hu/images/662/733/103333.jpg" w="1048" h="698" t="poster"></i>
+  <i id="1045901" url="http://epg.p24.hu/images/546/806/104590.jpg" w="707" h="1000" t="portrait"></i>
+  <i id="105191" url="http://epg.p24.hu/images/760/907/10519.jpg" w="540" h="653" t="portrait"></i>
+  <i id="1063071" url="http://epg.p24.hu/images/772/261/106307.jpg" w="638" h="681" t="portrait"></i>
+  <i id="1064201" url="http://epg.p24.hu/images/779/969/106420.jpg" w="800" h="1078" t="portrait"></i>
+  <i id="1065501" url="http://epg.p24.hu/images/164/977/106550.jpg" w="500" h="657" t="portrait"></i>
+  <i id="1072101" url="http://epg.p24.hu/images/311/253/107210.jpg" w="500" h="711" t="portrait"></i>
+  <i id="107871" url="http://epg.p24.hu/images/121/387/10787.jpg" w="610" h="963" t="portrait"></i>
+  <i id="1083781" url="http://epg.p24.hu/images/652/224/108378.jpg" w="1204" h="1500" t="portrait"></i>
+  <i id="1116211" url="http://epg.p24.hu/images/11/696/111621.jpg" w="559" h="766" t="portrait"></i>
+  <i id="1162671" url="http://epg.p24.hu/images/872/804/116267.jpg" w="743" h="1024" t="portrait"></i>
+  <i id="1171991" url="http://epg.p24.hu/images/531/472/117199.jpg" w="726" h="1000" t="portrait"></i>
+  <i id="1174021" url="http://epg.p24.hu/images/484/282/117402.jpg" w="485" h="645" t="portrait"></i>
+  <i id="119351" url="http://epg.p24.hu/images/333/411/11935.jpg" w="945" h="945" t="portrait"></i>
+  <i id="1200011" url="http://epg.p24.hu/images/720/53/120001.jpg" w="452" h="642" t="portrait"></i>
+  <i id="1207351" url="http://epg.p24.hu/images/100/330/120735.jpg" w="452" h="642" t="portrait"></i>
+  <i id="1226491" url="http://epg.p24.hu/images/472/954/122649.jpg" w="452" h="642" t="portrait"></i>
+  <i id="1257071" url="http://epg.p24.hu/images/122/999/125707.jpg" w="997" h="700" t="poster"></i>
+  <i id="1300221" url="http://epg.p24.hu/images/172/221/130022.jpg" w="1200" h="797" t="poster"></i>
+  <i id="1326261" url="http://epg.p24.hu/images/294/941/132626.jpg" w="1200" h="900" t="poster"></i>
+  <i id="134301" url="http://epg.p24.hu/images/696/564/13430.jpg" w="942" h="985" t="portrait"></i>
+  <i id="1368111" url="http://epg.p24.hu/images/122/592/136811.jpg" w="1125" h="750" t="poster"></i>
+  <i id="1400731" url="http://epg.p24.hu/images/247/806/140073.jpg" w="671" h="954" t="portrait"></i>
+  <i id="1427181" url="http://epg.p24.hu/images/289/406/142718.jpg" w="1024" h="679" t="poster"></i>
+  <i id="1430981" url="http://epg.p24.hu/images/597/14/143098.jpg" w="1024" h="681" t="poster"></i>
+  <i id="1431541" url="http://epg.p24.hu/images/715/206/143154.jpg" w="1024" h="682" t="poster"></i>
+  <i id="1432591" url="http://epg.p24.hu/images/8/290/143259.jpg" w="1024" h="681" t="poster"></i>
+  <i id="1496531" url="http://epg.p24.hu/images/107/204/149653.jpg" w="1600" h="1200" t="poster"></i>
+  <i id="1496551" url="http://epg.p24.hu/images/528/177/149655.jpg" w="477" h="712" t="portrait"></i>
+  <i id="1535311" url="http://epg.p24.hu/images/28/259/153531.jpg" w="2600" h="1950" t="poster"></i>
+  <i id="1535341" url="http://epg.p24.hu/images/441/452/153534.jpg" w="1872" h="1359" t="poster"></i>
+  <i id="1547671" url="http://epg.p24.hu/images/595/908/154767.jpg" w="2847" h="2134" t="keyart"></i>
+  <i id="1547781" url="http://epg.p24.hu/images/406/36/154778.jpg" w="1685" h="1264" t="poster"></i>
+  <i id="1547791" url="http://epg.p24.hu/images/59/714/154779.jpg" w="1273" h="956" t="poster"></i>
+  <i id="156261" url="http://epg.p24.hu/images/780/978/15626.jpg" w="1000" h="1457" t="portrait"></i>
+  <i id="1563081" url="http://epg.p24.hu/images/565/956/156308.jpg" w="3282" h="4542" t="portrait"></i>
+  <i id="1563091" url="http://epg.p24.hu/images/442/514/156309.jpg" w="2052" h="3948" t="portrait"></i>
+  <i id="1563101" url="http://epg.p24.hu/images/513/527/156310.jpg" w="3258" h="4464" t="portrait"></i>
+  <i id="1563111" url="http://epg.p24.hu/images/731/105/156311.jpg" w="3144" h="4902" t="portrait"></i>
+  <i id="1563121" url="http://epg.p24.hu/images/642/139/156312.jpg" w="3240" h="4848" t="portrait"></i>
+  <i id="1563901" url="http://epg.p24.hu/images/929/343/156390.jpg" w="1280" h="960" t="keyart"></i>
+  <i id="163211" url="http://epg.p24.hu/images/860/244/16321.jpg" w="700" h="980" t="portrait"></i>
+  <i id="1654551" url="http://epg.p24.hu/images/210/695/165455.jpg" w="900" h="660" t="poster"></i>
+  <i id="166011" url="http://epg.p24.hu/images/771/325/16601.jpg" w="858" h="593" t="poster"></i>
+  <i id="1687431" url="http://epg.p24.hu/images/622/7/168743.jpg" w="700" h="1080" t="portrait"></i>
+  <i id="1689041" url="http://epg.p24.hu/images/226/586/168904.jpg" w="1770" h="1200" t="poster"></i>
+  <i id="1690241" url="http://epg.p24.hu/images/834/226/169024.jpg" w="550" h="836" t="portrait"></i>
+  <i id="1699241" url="http://epg.p24.hu/images/296/125/169924.jpg" w="1026" h="700" t="poster"></i>
+  <i id="1699581" url="http://epg.p24.hu/images/466/129/169958.jpg" w="700" h="1060" t="portrait"></i>
+  <i id="1700241" url="http://epg.p24.hu/images/335/496/170024.jpg" w="806" h="800" t="poster"></i>
+  <i id="1700451" url="http://epg.p24.hu/images/233/624/170045.jpg" w="1005" h="700" t="poster"></i>
+  <i id="1700751" url="http://epg.p24.hu/images/847/195/170075.jpg" w="550" h="826" t="portrait"></i>
+  <i id="171211" url="http://epg.p24.hu/images/229/279/17121.jpg" w="1100" h="736" t="poster"></i>
+  <i id="171221" url="http://epg.p24.hu/images/260/965/17122.jpg" w="1278" h="758" t="poster"></i>
+  <i id="1716871" url="http://epg.p24.hu/images/57/903/171687.jpg" w="998" h="663" t="poster"></i>
+  <i id="1716881" url="http://epg.p24.hu/images/673/406/171688.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="1716891" url="http://epg.p24.hu/images/772/136/171689.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="1716901" url="http://epg.p24.hu/images/191/181/171690.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="1719171" url="http://epg.p24.hu/images/731/675/171917.jpg" w="945" h="945" t="portrait"></i>
+  <i id="1730971" url="http://epg.p24.hu/images/261/911/173097.jpg" w="1048" h="700" t="poster"></i>
+  <i id="1735491" url="http://epg.p24.hu/images/734/454/173549.jpg" w="550" h="774" t="portrait"></i>
+  <i id="175041" url="http://epg.p24.hu/images/97/806/17504.jpg" w="700" h="1060" t="portrait"></i>
+  <i id="1753611" url="http://epg.p24.hu/images/51/880/175361.jpg" w="500" h="597" t="portrait"></i>
+  <i id="1756151" url="http://epg.p24.hu/images/797/661/175615.jpg" w="1000" h="961" t="poster"></i>
+  <i id="1766161" url="http://epg.p24.hu/images/492/681/176616.jpg" w="713" h="864" t="portrait"></i>
+  <i id="1766181" url="http://epg.p24.hu/images/583/438/176618.jpg" w="998" h="648" t="poster"></i>
+  <i id="1799291" url="http://epg.p24.hu/images/675/56/179929.jpg" w="550" h="834" t="portrait"></i>
+  <i id="180221" url="http://epg.p24.hu/images/661/508/18022.jpg" w="595" h="895" t="portrait"></i>
+  <i id="1811131" url="http://epg.p24.hu/images/535/915/181113.jpg" w="799" h="1086" t="portrait"></i>
+  <i id="1811661" url="http://epg.p24.hu/images/320/931/181166.jpg" w="1019" h="675" t="poster"></i>
+  <i id="1812501" url="http://epg.p24.hu/images/589/708/181250.jpg" w="1812" h="1208" t="keyart"></i>
+  <i id="1812801" url="http://epg.p24.hu/images/718/849/181280.jpg" w="1028" h="1500" t="portrait"></i>
+  <i id="1812941" url="http://epg.p24.hu/images/614/361/181294.jpg" w="530" h="704" t="portrait"></i>
+  <i id="181480" url="https://epg-images.cdm.hu/pictures/000000018148nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="1817021" url="http://epg.p24.hu/images/628/430/181702.jpg" w="452" h="800" t="portrait"></i>
+  <i id="1821201" url="http://epg.p24.hu/images/646/588/182120.jpg" w="1516" h="1000" t="poster"></i>
+  <i id="1821561" url="http://epg.p24.hu/images/525/902/182156.jpg" w="1024" h="768" t="poster"></i>
+  <i id="1826191" url="http://epg.p24.hu/images/54/622/182619.jpg" w="685" h="1000" t="portrait"></i>
+  <i id="1832221" url="http://epg.p24.hu/images/205/100/183222.jpg" w="1000" h="666" t="poster"></i>
+  <i id="1835321" url="http://epg.p24.hu/images/421/352/183532.jpg" w="580" h="926" t="portrait"></i>
+  <i id="1843071" url="http://epg.p24.hu/images/199/151/184307.jpg" w="1280" h="960" t="poster"></i>
+  <i id="1846841" url="http://epg.p24.hu/images/372/662/184684.jpg" w="1240" h="822" t="poster"></i>
+  <i id="1847341" url="http://epg.p24.hu/images/216/74/184734.jpg" w="1326" h="1729" t="portrait"></i>
+  <i id="1861121" url="http://epg.p24.hu/images/300/868/186112.jpg" w="1280" h="960" t="poster"></i>
+  <i id="1882391" url="http://epg.p24.hu/images/82/660/188239.jpg" w="500" h="682" t="portrait"></i>
+  <i id="1891411" url="http://epg.p24.hu/images/782/61/189141.jpg" w="1622" h="1217" t="poster"></i>
+  <i id="1891471" url="http://epg.p24.hu/images/920/280/189147.jpg" w="1706" h="1280" t="poster"></i>
+  <i id="1893311" url="http://epg.p24.hu/images/794/948/189331.jpg" w="700" h="1080" t="portrait"></i>
+  <i id="1914441" url="http://epg.p24.hu/images/685/782/191444.jpg" w="452" h="642" t="portrait"></i>
+  <i id="1924361" url="http://epg.p24.hu/images/384/403/192436.jpg" w="2500" h="1875" t="poster"></i>
+  <i id="1924391" url="http://epg.p24.hu/images/465/666/192439.jpg" w="2500" h="1875" t="keyart"></i>
+  <i id="1968091" url="http://epg.p24.hu/images/862/386/196809.jpg" w="550" h="770" t="portrait"></i>
+  <i id="1969711" url="http://epg.p24.hu/images/352/304/196971.jpg" w="1204" h="1500" t="portrait"></i>
+  <i id="1979661" url="http://epg.p24.hu/images/735/287/197966.jpg" w="610" h="963" t="portrait"></i>
+  <i id="1984151" url="http://epg.p24.hu/images/324/175/198415.jpg" w="1800" h="1200" t="poster"></i>
+  <i id="2004871" url="http://epg.p24.hu/images/563/98/200487.jpg" w="1583" h="1054" t="poster"></i>
+  <i id="2007741" url="http://epg.p24.hu/images/890/870/200774.jpg" w="1653" h="1100" t="keyart"></i>
+  <i id="2009831" url="http://epg.p24.hu/images/32/336/200983.jpg" w="847" h="602" t="poster"></i>
+  <i id="2009851" url="http://epg.p24.hu/images/81/445/200985.jpg" w="1068" h="700" t="poster"></i>
+  <i id="2043661" url="http://epg.p24.hu/images/75/600/204366.jpg" w="2400" h="1798" t="keyart"></i>
+  <i id="2049351" url="http://epg.p24.hu/images/53/113/204935.jpg" w="671" h="954" t="portrait"></i>
+  <i id="2052681" url="http://epg.p24.hu/images/268/549/205268.jpg" w="2400" h="1798" t="poster"></i>
+  <i id="2057561" url="http://epg.p24.hu/images/941/162/205756.jpg" w="1776" h="1333" t="keyart"></i>
+  <i id="2057581" url="http://epg.p24.hu/images/939/309/205758.jpg" w="1775" h="1331" t="poster"></i>
+  <i id="2057601" url="http://epg.p24.hu/images/16/284/205760.jpg" w="1774" h="1330" t="keyart"></i>
+  <i id="2057621" url="http://epg.p24.hu/images/362/96/205762.jpg" w="1775" h="1331" t="poster"></i>
+  <i id="2057631" url="http://epg.p24.hu/images/505/510/205763.jpg" w="1775" h="1331" t="poster"></i>
+  <i id="2061041" url="http://epg.p24.hu/images/489/247/206104.jpg" w="1643" h="1100" t="keyart"></i>
+  <i id="2061051" url="http://epg.p24.hu/images/943/177/206105.jpg" w="1587" h="1100" t="poster"></i>
+  <i id="2067011" url="http://epg.p24.hu/images/596/898/206701.jpg" w="1815" h="1200" t="poster"></i>
+  <i id="2067831" url="http://epg.p24.hu/images/895/302/206783.jpg" w="2000" h="1500" t="poster"></i>
+  <i id="2067851" url="http://epg.p24.hu/images/99/59/206785.jpg" w="2000" h="1500" t="poster"></i>
+  <i id="207801" url="http://epg.p24.hu/images/719/320/20780.jpg" w="1031" h="1372" t="portrait"></i>
+  <i id="2087951" url="http://epg.p24.hu/images/859/585/208795.jpg" w="1000" h="1500" t="portrait"></i>
+  <i id="2096491" url="http://epg.p24.hu/images/750/709/209649.jpg" w="1600" h="1200" t="poster"></i>
+  <i id="2112051" url="http://epg.p24.hu/images/410/777/211205.jpg" w="894" h="601" t="poster"></i>
+  <i id="2135461" url="http://epg.p24.hu/images/114/25/213546.jpg" w="1031" h="1372" t="portrait"></i>
+  <i id="2153011" url="http://epg.p24.hu/images/17/312/215301.jpg" w="1000" h="1500" t="portrait"></i>
+  <i id="21641" url="http://epg.p24.hu/images/946/705/2164.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="21651" url="http://epg.p24.hu/images/566/87/2165.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="21661" url="http://epg.p24.hu/images/560/189/2166.jpg" w="998" h="1249" t="portrait"></i>
+  <i id="21671" url="http://epg.p24.hu/images/501/675/2167.jpg" w="998" h="663" t="poster"></i>
+  <i id="2183051" url="http://epg.p24.hu/images/207/396/218305.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2183061" url="http://epg.p24.hu/images/425/182/218306.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2183091" url="http://epg.p24.hu/images/597/71/218309.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2183101" url="http://epg.p24.hu/images/829/290/218310.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2183121" url="http://epg.p24.hu/images/652/294/218312.jpg" w="1600" h="1200" t="poster"></i>
+  <i id="2201931" url="http://epg.p24.hu/images/865/929/220193.jpg" w="1333" h="1000" t="keyart"></i>
+  <i id="2201951" url="http://epg.p24.hu/images/648/764/220195.jpg" w="1333" h="999" t="poster"></i>
+  <i id="2201981" url="http://epg.p24.hu/images/470/529/220198.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2206551" url="http://epg.p24.hu/images/25/333/220655.jpg" w="1196" h="790" t="poster"></i>
+  <i id="2232151" url="http://epg.p24.hu/images/647/875/223215.jpg" w="533" h="800" t="portrait"></i>
+  <i id="2246281" url="http://epg.p24.hu/images/828/888/224628.jpg" w="533" h="800" t="portrait"></i>
+  <i id="2273711" url="http://epg.p24.hu/images/431/612/227371.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2273781" url="http://epg.p24.hu/images/211/480/227378.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2296761" url="http://epg.p24.hu/images/771/335/229676.jpg" w="710" h="1024" t="portrait"></i>
+  <i id="2298911" url="http://epg.p24.hu/images/672/672/229891.jpg" w="1278" h="758" t="poster"></i>
+  <i id="230461" url="http://epg.p24.hu/images/943/50/23046.jpg" w="1054" h="700" t="poster"></i>
+  <i id="2315591" url="http://epg.p24.hu/images/352/466/231559.jpg" w="1024" h="681" t="keyart"></i>
+  <i id="2351361" url="http://epg.p24.hu/images/838/222/235136.jpg" w="1010" h="1481" t="portrait"></i>
+  <i id="2377731" url="http://epg.p24.hu/images/812/348/237773.jpg" w="1009" h="700" t="poster"></i>
+  <i id="2378401" url="http://epg.p24.hu/images/145/400/237840.jpg" w="1275" h="820" t="poster"></i>
+  <i id="2381071" url="http://epg.p24.hu/images/542/214/238107.jpg" w="900" h="1352" t="portrait"></i>
+  <i id="2419161" url="http://epg.p24.hu/images/710/131/241916.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2431841" url="http://epg.p24.hu/images/751/269/243184.jpg" w="1333" h="1001" t="poster"></i>
+  <i id="2431851" url="http://epg.p24.hu/images/928/819/243185.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2443051" url="http://epg.p24.hu/images/626/348/244305.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2443061" url="http://epg.p24.hu/images/802/966/244306.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2466471" url="http://epg.p24.hu/images/658/660/246647.jpg" w="1000" h="961" t="poster"></i>
+  <i id="248101" url="http://epg.p24.hu/images/367/35/24810.jpg" w="551" h="833" t="portrait"></i>
+  <i id="2512421" url="http://epg.p24.hu/images/10/878/251242.jpg" w="1280" h="720" t="poster"></i>
+  <i id="256171" url="http://epg.p24.hu/images/750/519/25617.jpg" w="968" h="645" t="poster"></i>
+  <i id="2565281" url="http://epg.p24.hu/images/3/546/256528.jpg" w="1375" h="1100" t="poster"></i>
+  <i id="2572261" url="http://epg.p24.hu/images/342/781/257226.jpg" w="533" h="800" t="portrait"></i>
+  <i id="258691" url="http://epg.p24.hu/images/283/261/25869.jpg" w="593" h="841" t="portrait"></i>
+  <i id="2587031" url="http://epg.p24.hu/images/223/565/258703.jpg" w="1024" h="681" t="poster"></i>
+  <i id="2613951" url="http://epg.p24.hu/images/371/127/261395.jpg" w="1280" h="720" t="poster"></i>
+  <i id="265651" url="http://epg.p24.hu/images/419/115/26565.jpg" w="601" h="914" t="portrait"></i>
+  <i id="266181" url="http://epg.p24.hu/images/504/712/26618.jpg" w="847" h="602" t="poster"></i>
+  <i id="266751" url="http://epg.p24.hu/images/467/59/26675.jpg" w="583" h="770" t="portrait"></i>
+  <i id="2669801" url="http://epg.p24.hu/images/817/46/266980.jpg" w="1100" h="736" t="poster"></i>
+  <i id="2678201" url="http://epg.p24.hu/images/904/846/267820.jpg" w="1333" h="1000" t="poster"></i>
+  <i id="2684871" url="http://epg.p24.hu/images/824/341/268487.jpg" w="822" h="617" t="poster"></i>
+  <i id="2684881" url="http://epg.p24.hu/images/649/732/268488.jpg" w="822" h="616" t="poster"></i>
+  <i id="27310" url="https://epg-images.cdm.hu/pictures/000000002731nexttv_2_3.jpg" w="450" h="675" t="portrait"></i>
+  <i id="27320" url="https://epg-images.cdm.hu/pictures/000000002732nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="27371" url="http://epg.p24.hu/images/854/428/2737.jpg" w="557" h="1113" t="portrait"></i>
+  <i id="2798601" url="http://epg.p24.hu/images/140/617/279860.jpg" w="822" h="617" t="poster"></i>
+  <i id="2866511" url="http://epg.p24.hu/images/88/913/286651.jpg" w="822" h="616" t="poster"></i>
+  <i id="287201" url="http://epg.p24.hu/images/500/349/28720.jpg" w="890" h="1341" t="portrait"></i>
+  <i id="288551" url="http://epg.p24.hu/images/106/376/28855.jpg" w="1191" h="785" t="poster"></i>
+  <i id="291761" url="http://epg.p24.hu/images/863/898/29176.jpg" w="550" h="836" t="portrait"></i>
+  <i id="2918381" url="http://epg.p24.hu/images/921/392/291838.jpg" w="1800" h="1200" t="poster"></i>
+  <i id="2918391" url="http://epg.p24.hu/images/612/774/291839.jpg" w="2850" h="1900" t="keyart"></i>
+  <i id="2918401" url="http://epg.p24.hu/images/12/421/291840.jpg" w="1800" h="1200" t="poster"></i>
+  <i id="2918411" url="http://epg.p24.hu/images/887/251/291841.jpg" w="2850" h="1900" t="poster"></i>
+  <i id="2918421" url="http://epg.p24.hu/images/89/1/291842.jpg" w="1800" h="2700" t="portrait"></i>
+  <i id="2926621" url="http://epg.p24.hu/images/428/879/292662.jpg" w="1000" h="667" t="poster"></i>
+  <i id="2926921" url="http://epg.p24.hu/images/382/16/292692.jpg" w="1000" h="667" t="poster"></i>
+  <i id="2927821" url="http://epg.p24.hu/images/577/270/292782.jpg" w="1000" h="667" t="poster"></i>
+  <i id="2928121" url="http://epg.p24.hu/images/149/826/292812.jpg" w="1000" h="667" t="poster"></i>
+  <i id="2929771" url="http://epg.p24.hu/images/605/948/292977.jpg" w="822" h="617" t="poster"></i>
+  <i id="2929811" url="http://epg.p24.hu/images/942/470/292981.jpg" w="822" h="617" t="poster"></i>
+  <i id="2932191" url="http://epg.p24.hu/images/47/33/293219.jpg" w="1500" h="1000" t="poster"></i>
+  <i id="2939531" url="http://epg.p24.hu/images/197/634/293953.jpg" w="1800" h="2519" t="portrait"></i>
+  <i id="2939541" url="http://epg.p24.hu/images/21/793/293954.jpg" w="4906" h="3475" t="keyart"></i>
+  <i id="2939551" url="http://epg.p24.hu/images/767/543/293955.jpg" w="600" h="893" t="portrait"></i>
+  <i id="2939561" url="http://epg.p24.hu/images/130/317/293956.jpg" w="3259" h="4800" t="portrait"></i>
+  <i id="294311" url="http://epg.p24.hu/images/736/918/29431.jpg" w="1005" h="700" t="poster"></i>
+  <i id="2949011" url="http://epg.p24.hu/images/140/434/294901.jpg" w="1000" h="708" t="poster"></i>
+  <i id="2955461" url="http://epg.p24.hu/images/800/308/295546.jpg" w="3150" h="2100" t="keyart"></i>
+  <i id="2970811" url="http://epg.p24.hu/images/640/187/297081.jpg" w="2259" h="1500" t="poster"></i>
+  <i id="2970821" url="http://epg.p24.hu/images/139/969/297082.jpg" w="2248" h="1500" t="keyart"></i>
+  <i id="2998631" url="http://epg.p24.hu/images/148/178/299863.jpg" w="822" h="617" t="poster"></i>
+  <i id="2998651" url="http://epg.p24.hu/images/95/271/299865.jpg" w="822" h="617" t="poster"></i>
+  <i id="3037661" url="http://epg.p24.hu/images/42/448/303766.jpg" w="864" h="576" t="poster"></i>
+  <i id="3037671" url="http://epg.p24.hu/images/119/46/303767.jpg" w="1050" h="700" t="poster"></i>
+  <i id="3037681" url="http://epg.p24.hu/images/665/175/303768.jpg" w="1050" h="700" t="poster"></i>
+  <i id="3037691" url="http://epg.p24.hu/images/380/929/303769.jpg" w="864" h="576" t="poster"></i>
+  <i id="3046591" url="http://epg.p24.hu/images/190/92/304659.jpg" w="1050" h="700" t="poster"></i>
+  <i id="3047061" url="http://epg.p24.hu/images/232/559/304706.jpg" w="850" h="764" t="poster"></i>
+  <i id="320031" url="http://epg.p24.hu/images/360/724/32003.jpg" w="925" h="626" t="poster"></i>
+  <i id="334161" url="http://epg.p24.hu/images/421/219/33416.jpg" w="1048" h="700" t="poster"></i>
+  <i id="354491" url="http://epg.p24.hu/images/643/307/35449.jpg" w="998" h="648" t="poster"></i>
+  <i id="365951" url="http://epg.p24.hu/images/808/788/36595.jpg" w="713" h="864" t="portrait"></i>
+  <i id="368931" url="http://epg.p24.hu/images/111/602/36893.jpg" w="1026" h="700" t="poster"></i>
+  <i id="371851" url="http://epg.p24.hu/images/153/260/37185.jpg" w="595" h="896" t="portrait"></i>
+  <i id="371981" url="http://epg.p24.hu/images/983/312/37198.jpg" w="594" h="901" t="portrait"></i>
+  <i id="384021" url="http://epg.p24.hu/images/267/130/38402.jpg" w="850" h="1626" t="portrait"></i>
+  <i id="384341" url="http://epg.p24.hu/images/896/972/38434.jpg" w="609" h="874" t="portrait"></i>
+  <i id="384981" url="http://epg.p24.hu/images/631/533/38498.jpg" w="580" h="881" t="portrait"></i>
+  <i id="385011" url="http://epg.p24.hu/images/109/751/38501.jpg" w="600" h="923" t="portrait"></i>
+  <i id="392751" url="http://epg.p24.hu/images/475/977/39275.jpg" w="782" h="602" t="poster"></i>
+  <i id="415001" url="http://epg.p24.hu/images/617/723/41500.jpg" w="1042" h="689" t="poster"></i>
+  <i id="415271" url="http://epg.p24.hu/images/429/338/41527.jpg" w="1770" h="1200" t="keyart"></i>
+  <i id="427031" url="http://epg.p24.hu/images/755/905/42703.jpg" w="500" h="746" t="portrait"></i>
+  <i id="43091" url="http://epg.p24.hu/images/259/608/4309.jpg" w="1194" h="735" t="poster"></i>
+  <i id="431051" url="http://epg.p24.hu/images/297/379/43105.jpg" w="585" h="783" t="portrait"></i>
+  <i id="43151" url="http://epg.p24.hu/images/824/946/4315.jpg" w="983" h="1253" t="portrait"></i>
+  <i id="435491" url="http://epg.p24.hu/images/79/568/43549.jpg" w="921" h="633" t="keyart"></i>
+  <i id="441941" url="http://epg.p24.hu/images/5/61/44194.jpg" w="723" h="600" t="poster"></i>
+  <i id="445541" url="http://epg.p24.hu/images/770/389/44554.jpg" w="1116" h="1009" t="poster"></i>
+  <i id="452281" url="http://epg.p24.hu/images/647/65/45228.jpg" w="568" h="881" t="portrait"></i>
+  <i id="473751" url="http://epg.p24.hu/images/172/765/47375.jpg" w="605" h="908" t="portrait"></i>
+  <i id="475201" url="http://epg.p24.hu/images/859/365/47520.jpg" w="610" h="907" t="portrait"></i>
+  <i id="490171" url="http://epg.p24.hu/images/452/445/49017.jpg" w="512" h="777" t="portrait"></i>
+  <i id="495261" url="http://epg.p24.hu/images/379/299/49526.jpg" w="591" h="909" t="portrait"></i>
+  <i id="505541" url="http://epg.p24.hu/images/955/442/50554.jpg" w="595" h="581" t="poster"></i>
+  <i id="518151" url="http://epg.p24.hu/images/102/614/51815.jpg" w="1068" h="700" t="poster"></i>
+  <i id="520081" url="http://epg.p24.hu/images/171/516/52008.jpg" w="806" h="800" t="poster"></i>
+  <i id="528171" url="http://epg.p24.hu/images/23/444/52817.jpg" w="910" h="605" t="keyart"></i>
+  <i id="535601" url="http://epg.p24.hu/images/802/694/53560.jpg" w="1210" h="792" t="poster"></i>
+  <i id="542521" url="http://epg.p24.hu/images/708/821/54252.jpg" w="532" h="727" t="portrait"></i>
+  <i id="553771" url="http://epg.p24.hu/images/768/714/55377.jpg" w="526" h="786" t="portrait"></i>
+  <i id="555661" url="http://epg.p24.hu/images/435/567/55566.jpg" w="820" h="585" t="poster"></i>
+  <i id="556231" url="http://epg.p24.hu/images/476/157/55623.jpg" w="510" h="778" t="portrait"></i>
+  <i id="566201" url="http://epg.p24.hu/images/202/345/56620.jpg" w="799" h="613" t="poster"></i>
+  <i id="567891" url="http://epg.p24.hu/images/708/720/56789.jpg" w="498" h="742" t="portrait"></i>
+  <i id="587101" url="http://epg.p24.hu/images/199/22/58710.jpg" w="1000" h="725" t="poster"></i>
+  <i id="587351" url="http://epg.p24.hu/images/836/67/58735.jpg" w="1111" h="700" t="poster"></i>
+  <i id="601321" url="http://epg.p24.hu/images/33/101/60132.jpg" w="648" h="974" t="portrait"></i>
+  <i id="601661" url="http://epg.p24.hu/images/399/441/60166.jpg" w="1111" h="700" t="poster"></i>
+  <i id="620701" url="http://epg.p24.hu/images/829/849/62070.jpg" w="602" h="828" t="portrait"></i>
+  <i id="65391" url="http://epg.p24.hu/images/435/874/6539.jpg" w="550" h="826" t="portrait"></i>
+  <i id="657191" url="http://epg.p24.hu/images/650/631/65719.jpg" w="526" h="781" t="portrait"></i>
+  <i id="657631" url="http://epg.p24.hu/images/730/14/65763.jpg" w="1200" h="1830" t="portrait"></i>
+  <i id="657641" url="http://epg.p24.hu/images/828/285/65764.jpg" w="733" h="1000" t="portrait"></i>
+  <i id="681811" url="http://epg.p24.hu/images/101/715/68181.jpg" w="552" h="836" t="portrait"></i>
+  <i id="693711" url="http://epg.p24.hu/images/800/599/69371.jpg" w="1275" h="820" t="poster"></i>
+  <i id="696001" url="http://epg.p24.hu/images/792/493/69600.jpg" w="1000" h="796" t="poster"></i>
+  <i id="697361" url="http://epg.p24.hu/images/475/52/69736.jpg" w="642" h="955" t="portrait"></i>
+  <i id="697371" url="http://epg.p24.hu/images/801/914/69737.jpg" w="700" h="1080" t="portrait"></i>
+  <i id="698311" url="http://epg.p24.hu/images/262/642/69831.jpg" w="800" h="1200" t="portrait"></i>
+  <i id="701641" url="http://epg.p24.hu/images/195/213/70164.jpg" w="550" h="774" t="portrait"></i>
+  <i id="707781" url="http://epg.p24.hu/images/836/501/70778.jpg" w="1200" h="1477" t="portrait"></i>
+  <i id="709281" url="http://epg.p24.hu/images/380/762/70928.jpg" w="1010" h="1481" t="portrait"></i>
+  <i id="72191" url="http://epg.p24.hu/images/110/592/7219.jpg" w="500" h="614" t="portrait"></i>
+  <i id="729701" url="http://epg.p24.hu/images/669/734/72970.jpg" w="1107" h="800" t="keyart"></i>
+  <i id="732731" url="http://epg.p24.hu/images/694/232/73273.jpg" w="500" h="597" t="portrait"></i>
+  <i id="761281" url="http://epg.p24.hu/images/177/470/76128.jpg" w="550" h="834" t="portrait"></i>
+  <i id="762321" url="http://epg.p24.hu/images/143/288/76232.jpg" w="550" h="770" t="portrait"></i>
+  <i id="76380" url="https://epg-images.cdm.hu/pictures/000000007638nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="76390" url="https://epg-images.cdm.hu/pictures/000000007639nexttv_2_3.jpg" w="450" h="675" t="portrait"></i>
+  <i id="76400" url="https://epg-images.cdm.hu/pictures/000000007640nexttv_gallery.jpg" w="1024" h="576" t="poster"></i>
+  <i id="766161" url="http://epg.p24.hu/images/304/767/76616.jpg" w="1000" h="961" t="poster"></i>
+  <i id="776381" url="http://epg.p24.hu/images/99/487/77638.jpg" w="799" h="1086" t="portrait"></i>
+  <i id="776961" url="http://epg.p24.hu/images/684/882/77696.jpg" w="1019" h="675" t="poster"></i>
+  <i id="778071" url="http://epg.p24.hu/images/476/999/77807.jpg" w="1812" h="1208" t="poster"></i>
+  <i id="778481" url="http://epg.p24.hu/images/193/106/77848.jpg" w="1028" h="1500" t="portrait"></i>
+  <i id="778681" url="http://epg.p24.hu/images/814/992/77868.jpg" w="530" h="704" t="portrait"></i>
+  <i id="783701" url="http://epg.p24.hu/images/260/500/78370.jpg" w="452" h="800" t="portrait"></i>
+  <i id="78800" url="https://epg-images.cdm.hu/pictures/000000007880nexttv_2_3.jpg" w="450" h="675" t="portrait"></i>
+  <i id="78810" url="https://epg-images.cdm.hu/pictures/000000007881nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="78820" url="https://epg-images.cdm.hu/pictures/000000007882nexttv_gallery.jpg" w="1024" h="576" t="poster"></i>
+  <i id="788411" url="http://epg.p24.hu/images/17/696/78841.jpg" w="1516" h="1000" t="poster"></i>
+  <i id="79141" url="http://epg.p24.hu/images/897/436/7914.jpg" w="1032" h="692" t="poster"></i>
+  <i id="794731" url="http://epg.p24.hu/images/191/374/79473.jpg" w="685" h="1000" t="portrait"></i>
+  <i id="79871" url="http://epg.p24.hu/images/595/887/7987.jpg" w="899" h="616" t="poster"></i>
+  <i id="806881" url="http://epg.p24.hu/images/326/524/80688.jpg" w="1019" h="675" t="poster"></i>
+  <i id="80870" url="https://epg-images.cdm.hu/pictures/000000008087nexttv_2_3.jpg" w="450" h="675" t="portrait"></i>
+  <i id="80890" url="https://epg-images.cdm.hu/pictures/000000008089nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="809901" url="http://epg.p24.hu/images/21/746/80990.jpg" w="1000" h="666" t="poster"></i>
+  <i id="809921" url="http://epg.p24.hu/images/179/102/80992.jpg" w="580" h="725" t="portrait"></i>
+  <i id="813951" url="http://epg.p24.hu/images/71/374/81395.jpg" w="580" h="926" t="portrait"></i>
+  <i id="818791" url="http://epg.p24.hu/images/660/618/81879.jpg" w="1600" h="1083" t="poster"></i>
+  <i id="818801" url="http://epg.p24.hu/images/437/665/81880.jpg" w="780" h="1040" t="portrait"></i>
+  <i id="82180" url="https://epg-images.cdm.hu/pictures/000000008218nexttv_16_9.jpg" w="1024" h="576" t="keyart"></i>
+  <i id="82190" url="https://epg-images.cdm.hu/pictures/000000008219nexttv_2_3.jpg" w="450" h="675" t="portrait"></i>
+  <i id="838441" url="http://epg.p24.hu/images/664/447/83844.jpg" w="1280" h="960" t="poster"></i>
+  <i id="838471" url="http://epg.p24.hu/images/422/277/83847.jpg" w="1505" h="1000" t="poster"></i>
+  <i id="849901" url="http://epg.p24.hu/images/905/957/84990.jpg" w="800" h="1208" t="portrait"></i>
+  <i id="849911" url="http://epg.p24.hu/images/805/107/84991.jpg" w="800" h="1199" t="portrait"></i>
+  <i id="849921" url="http://epg.p24.hu/images/966/665/84992.jpg" w="1051" h="700" t="poster"></i>
+  <i id="856711" url="http://epg.p24.hu/images/963/365/85671.jpg" w="903" h="600" t="poster"></i>
+  <i id="869221" url="http://epg.p24.hu/images/855/817/86922.jpg" w="1240" h="822" t="poster"></i>
+  <i id="869711" url="http://epg.p24.hu/images/129/974/86971.jpg" w="1326" h="1729" t="portrait"></i>
+  <i id="874791" url="http://epg.p24.hu/images/28/594/87479.jpg" w="500" h="759" t="portrait"></i>
+  <i id="874821" url="http://epg.p24.hu/images/727/925/87482.jpg" w="903" h="600" t="poster"></i>
+  <i id="912441" url="http://epg.p24.hu/images/667/602/91244.jpg" w="841" h="900" t="portrait"></i>
+  <i id="912451" url="http://epg.p24.hu/images/219/908/91245.jpg" w="1187" h="750" t="poster"></i>
+  <i id="912461" url="http://epg.p24.hu/images/333/758/91246.jpg" w="1125" h="750" t="poster"></i>
+  <i id="912471" url="http://epg.p24.hu/images/232/936/91247.jpg" w="1200" h="800" t="poster"></i>
+  <i id="912481" url="http://epg.p24.hu/images/24/697/91248.jpg" w="1103" h="1200" t="portrait"></i>
+  <i id="933021" url="http://epg.p24.hu/images/14/175/93302.jpg" w="1106" h="900" t="keyart"></i>
+  <i id="933431" url="http://epg.p24.hu/images/70/925/93343.jpg" w="1024" h="694" t="poster"></i>
+  <i id="933441" url="http://epg.p24.hu/images/488/238/93344.jpg" w="1024" h="768" t="poster"></i>
+  <i id="960901" url="http://epg.p24.hu/images/794/577/96090.jpg" w="841" h="900" t="portrait"></i>
+  <i id="961391" url="http://epg.p24.hu/images/842/312/96139.jpg" w="1024" h="768" t="poster"></i>
+  <i id="974961" url="http://epg.p24.hu/images/760/669/97496.jpg" w="1280" h="960" t="poster"></i>
+  <i id="977381" url="http://epg.p24.hu/images/970/825/97738.jpg" w="1103" h="1200" t="portrait"></i>
+</programimages>
+<programvalues>
+  <pv id="1" name="MSEPG_CREATION_YEAR" pname="Creation or release year of the program" desc="Creation or release year of the program." serviceTypes="Live, Catchup">
+    <vt pname="Release Yea11r ar-sa" desc="Year of theatrical release11 ar-sa." lang="ar-sa"></vt>
+  </pv>
+  <pv id="2" name="MSEPG_RATING_HUN" pname="Hungarian TV ratings system" desc="Hungarian TV ratings system."></pv>
+  <pv id="3" name="MSEPG_EPISODE_ID" pname="Episode ID of the program" desc="Episode ID of the program."></pv>
+  <pv id="4" name="MSEPG_SEASON_ID" pname="Season ID associated with the program" desc="Season ID associated with the program."></pv>
+  <pv id="5" name="MSEPG_SEASON_NUMBER" pname="Season number" desc="Season number."></pv>
+  <pv id="6" name="MSEPG_RUNTIME_MINUTES" pname="Runtime in minutes" desc="Runtime in minutes."></pv>
+  <pv id="8" name="MSEPG_SERIES_ID" pname="Series ID associated with the program" desc="Series ID associated with the program."></pv>
+</programvalues>
+<schedulevalues>
+  <sv id="2" name="PBR_CATCHUP_WINDOW_START" pname="Catch-up window start" desc="The time at which a Catch-up asset becomes available." serviceTypes="Live, Catchup">
+    <vt pname="PBR_CATCHUP_WINDOW_START ar-sa" desc="PBR_CATCHUP_WINDOW_START" lang="ar-sa"></vt>
+    <vt pname="PBR_CATCHUP_WINDOW_START" desc="PBR_CATCHUP_WINDOW_START" lang="zh-CN"></vt>
+  </sv>
+  <sv id="3" name="PBR_CATCHUP_WINDOW_END" pname="Catch-up window end" desc="The time at which a Catch-up asset is no longer available."></sv>
+</schedulevalues>
+<rolevalues>
+  <rv id="1" name="Biography" pname="Biography" desc="Biography."></rv>
+  <rv id="2" name="Birthdate" pname="Birth date" desc="Birth date.">
+    <vt pname="Biography ar-sa" desc="shengri.ar-sa" lang="ar-sa"></vt>
+  </rv>
+  <rv id="3" name="Placeofbirth" pname="Place of birth" desc="Place of birth."></rv>
+</rolevalues>
+</listings>
+<lineups>
+  <headends>
+    <h id="0" n="Dummy Headend" t="SAT" dma="DMAName" iso3166="HU" l="china" iso639="hu" c="COMMUNITY_NAME"></h>
+  </headends>
+  <areas></areas>
+  <channellineups></channellineups>
+</lineups>
+<channels>
+  <c id="137" c="HBO2" l="HBO2" d="HBO2" tz="+08:00"></c>
+  <c id="138" c="HBO3" l="HBO3" d="HBO3" tz="+08:00"></c>
+</channels>
+<notices>
+  <provider website="https://centralmediacsoport.hu" name="Central Médiacsoport Zrt."></provider>
+  <legal>
+    <type>copyright</type>
+    <lang>hu-HU</lang>
+    <text>Copyright Central Médiacsoport Zrt. All Rights Reserved.</text>
+  </legal>
+</notices>
+</glf>
